@@ -1,0 +1,11 @@
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\bin\Debug\netcoreapp3.0\DesafioTec.exe
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\bin\Debug\netcoreapp3.0\DesafioTec.deps.json
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\bin\Debug\netcoreapp3.0\DesafioTec.runtimeconfig.json
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\bin\Debug\netcoreapp3.0\DesafioTec.runtimeconfig.dev.json
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\bin\Debug\netcoreapp3.0\DesafioTec.dll
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\bin\Debug\netcoreapp3.0\DesafioTec.pdb
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\obj\Debug\netcoreapp3.0\DesafioTec.csprojAssemblyReference.cache
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\obj\Debug\netcoreapp3.0\DesafioTec.AssemblyInfoInputs.cache
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\obj\Debug\netcoreapp3.0\DesafioTec.AssemblyInfo.cs
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\obj\Debug\netcoreapp3.0\DesafioTec.dll
+C:\Users\Agus\source\repos\DesafioTec\DesafioTec\obj\Debug\netcoreapp3.0\DesafioTec.pdb
